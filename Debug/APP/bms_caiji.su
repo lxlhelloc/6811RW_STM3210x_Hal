@@ -1,0 +1,9 @@
+bms_caiji.c:57:9:BMS_GetBatteryTotalVol	40	static
+bms_caiji.c:76:9:BMS_GetBatteryTotalVol_Filter	24	static
+bms_caiji.c:101:9:BMS_GetBatteryCellVol	216	static
+bms_caiji.c:120:9:BMS_GetBatteryCellVol_Filter	568	static
+bms_caiji.c:149:9:BMS_CheckCellStackStatus	40	static
+bms_caiji.c:193:5:BMS_OpenBalanceCharge	24	static
+bms_caiji.c:206:5:BMS_CloseBalanceCharge	24	static
+bms_caiji.c:217:5:BMS_BalanceCharge	40	static
+bms_caiji.c:225:5:BMS_CollectBattery	32	static

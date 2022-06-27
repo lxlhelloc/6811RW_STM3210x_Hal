@@ -1,0 +1,3 @@
+bms_soc.c:18:7:Get_Init_Soc	32	static
+bms_soc.c:57:7:Get_AHcal_Soc	32	static
+bms_soc.c:89:7:Get_VolCal_Soc	16	static

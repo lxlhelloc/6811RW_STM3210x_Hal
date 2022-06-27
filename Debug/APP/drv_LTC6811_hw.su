@@ -1,0 +1,2 @@
+drv_LTC6811_hw.c:15:6:spi_write_array	16	static
+drv_LTC6811_hw.c:22:6:spi_write_read	24	static

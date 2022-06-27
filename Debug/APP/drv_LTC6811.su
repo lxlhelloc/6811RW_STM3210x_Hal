@@ -1,0 +1,5 @@
+drv_LTC6811.c:17:9:LTC6811_get_total_voltage	32	static
+drv_LTC6811.c:37:9:LTC6811_Get_PerCell_Voltage	40	static
+drv_LTC6811.c:69:6:LTC6811_Get_GPIO1_GPIO3	32	static
+drv_LTC6811.c:97:6:LTC6811_Get_GPIO4_VREF2	32	static
+drv_LTC6811.c:126:9:LTC6811_ActiveBallancing	48	static

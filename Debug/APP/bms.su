@@ -1,0 +1,9 @@
+bms.c:57:9:BMS_GetBatteryTotalVol	40	static
+bms.c:76:9:BMS_GetBatteryTotalVol_Filter	24	static
+bms.c:101:9:BMS_GetBatteryCellVol	216	static
+bms.c:120:9:BMS_GetBatteryCellVol_Filter	568	static
+bms.c:149:9:BMS_CheckCellStackStatus	40	static
+bms.c:193:5:BMS_OpenBalanceCharge	24	static
+bms.c:206:5:BMS_CloseBalanceCharge	24	static
+bms.c:217:5:BMS_BalanceCharge	40	static
+bms.c:225:5:BMS_CollectBattery	32	static
